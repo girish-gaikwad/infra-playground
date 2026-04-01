@@ -4,7 +4,11 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server": "cd proxy-example && node server.js",
+    "client": "cd proxy-example && node test-api.js",
+    "example": "cd proxy-example && node example.js",
+    "advanced": "cd proxy-example && node advanced-example.js"
   },
   "keywords": [],
   "author": "",

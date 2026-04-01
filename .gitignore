@@ -1,4 +1,5 @@
-example/.env
+rabbitMQ-example/.env
+proxy-example/.env
 .vscode
 node_modules
 .DS_Store
